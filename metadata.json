@@ -1,0 +1,6 @@
+{
+  "name": "Grid Mockup Generator",
+  "description": "An interactive web application to create beautiful grid-based mockups from your images. Customize layouts, add text overlays, and export your creations with ease.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
